@@ -18,7 +18,16 @@ section {
 }
 
 .musicas {
-  margin-left: 20px;
+  margin-left: 40px;
+}
+
+.influenciadores {
+  margin-left: 40px;
+}
+
+.item img {
+  max-width: 300px;
+  height: auto;
 }
 
 footer {
